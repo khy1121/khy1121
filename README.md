@@ -28,9 +28,9 @@
 ### 🙋‍♂️ About Me
 
 - 🔭 현재 진행 중: 학습 프로젝트 및 개인 프로젝트들
-- 🌱 배우고 있는 것: Java, springboot, react, ts, js, tailwild. scss
+- 🌱 배우고 있는 것: Java, JavaScript (자유롭게 수정해 주세요)
 - 💬 관심 분야: 게임 개발, 웹/앱 서비스
-- 📫 연락처: rlagjsdud3@hansung.ac.kr
+- 📫 연락처: (원하시면 이메일/블로그 링크 추가)
 
 ---
 
@@ -39,6 +39,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -50,11 +51,11 @@
 
 | Project | Description | Language |
 |---|---|---|
-| [🧩 DesignPatternClass-archive](https://github.com/khy1121/DesignPatternClass-archive) | 설계 패턴 수업에서 사용한 코드를 올리는 장소입니다 | Java |
 | [🎮 fpsGame](https://github.com/khy1121/fpsGame) | 자바와 Swing을 사용한 FPS 게임입니다 | Java |
-| [📚 StudyProgram](https://github.com/khy1121/StudyProgram) | 수업에서 진행하는 학습 팀프로젝트를 나만의 방식으로 만드는 공간 | JavaScript |
-| [⏱️ lineFlow](https://github.com/khy1121/lineFlow) | 식당이나 카페 등 웨이팅이 있을 때 얼마나 남았는지 시간을 확인할 수 있는 앱입니다 | JavaScript |
 | [🚶 Safe_walk](https://github.com/khy1121/Safe_walk) | 안전 보행자 지도 앱입니다 | JavaScript |
+| [🐛 bugitone](https://github.com/khy1121/bugitone) | JavaScript 프로젝트 | JavaScript |
+| [👗 LookMate](https://github.com/khy1121/LookMate) | 코디를 도와주는 친구(Mate)라는 친근한 느낌의 웹 사이트. 핵심 기능은 '가상 피팅(Virtual Try-On)', 'AI 옷장', '나만의 스타일링' | TypeScript |
+| [🎯 SwingFpsGame](https://github.com/khy1121/SwingFpsGame) | FPS 게임 개발 완성 전, 불필요한 로직과 코드를 제거한 리팩토링 버전입니다 | Java |
 
 ---
 
