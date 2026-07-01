@@ -28,9 +28,9 @@
 ### 🙋‍♂️ About Me
 
 - 🔭 현재 진행 중: 학습 프로젝트 및 개인 프로젝트들
-- 🌱 배우고 있는 것: Java, JavaScript (자유롭게 수정해 주세요)
+- 🌱 배우고 있는 것: react, js, ts, java, springboot, docker
 - 💬 관심 분야: 게임 개발, 웹/앱 서비스
-- 📫 연락처: (원하시면 이메일/블로그 링크 추가)
+- 📫 연락처: rlagjsdud3@hansung.ac.kr
 
 ---
 
@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=tailwind&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
