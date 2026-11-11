@@ -55,7 +55,7 @@
 #### 🗓️ [Overlap](https://overlap-liard.vercel.app) · 개인 · 2026.11
 가능한 시간을 칠하면 전원이 되는 시간과 추천 시간을 계산해 주는 팀 회의 조율 웹앱입니다. 약 10명이 사용했고 회의 **5회**를 확정했습니다.
 - Supabase Realtime으로 실시간 동기화하고, RLS로 본인 일정만 수정할 수 있게 했습니다. PWA로 설치할 수 있습니다
-- `React 18` `Vite` `Supabase` `PWA`
+- `React 18` `Vite` `Supabase` `PWA` · [repo](https://github.com/khy1121/overlap)
 
 #### ✈️ [MCM Boarding Pass](https://boardingpass-seven.vercel.app) · 해커톤 팀 6인 · 2026.08
 매장 체험 모바일 웹으로, 프론트엔드 2인 중 총괄을 맡았습니다.
@@ -70,7 +70,7 @@
 - 8.79MB SVG 배너를 16KB WebP로 교체했습니다 (**99.8% 감소**)
 - `React 18` `Vite` `Tiptap` `PWA` · [repo](https://github.com/khy1121/bugitone)
 
-#### 🌱 Cropy (CropCare AI) · 산학협력 팀 5인 · 2026.09 – 진행 중
+#### 🌱 [Cropy (CropCare AI)](https://43.202.14.204.sslip.io/splash) · 산학협력 팀 5인 · 2026.09 – 진행 중
 사진 한 장으로 농작물 병해를 진단하고 농약을 추천하는 서비스입니다. 팀장을 맡아 기획·디자인·백엔드·모델을 담당하고 있습니다.
 - 통신이 끊긴 농지에서도 ONNX Runtime Web, Service Worker, IndexedDB로 브라우저 안에서 진단하고 기록을 저장하며, 다시 연결되면 서버와 동기화합니다
 - 팀 저장소에서 PR **48건**을 병합했고, PR마다 GitHub Actions로 테스트·빌드 검사를 돌립니다
