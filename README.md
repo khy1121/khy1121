@@ -29,12 +29,15 @@
 
 ## 🛠️ 보유 기술
 
-- **언어:** TypeScript, JavaScript, Python
-- **프론트엔드:** React, Next.js (App Router), React Router, Tailwind CSS, three.js
-- **데이터·API:** REST API 연동, Next.js Route Handlers, Supabase (Auth·Postgres·RLS·Realtime·Edge Functions), Upstash Redis
-- **오프라인·PWA:** Service Worker, IndexedDB, Web Push, ONNX Runtime Web
-- **테스트·품질:** Vitest, Testing Library, Storybook, Chromatic, ESLint
-- **배포·협업:** Vercel, GitHub Actions, Docker Compose, Git/GitHub (PR 템플릿·CODEOWNERS), Figma
+| 분야 | 기술 |
+|:---:|---|
+| **언어** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> |
+| **프론트엔드** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="three.js"/> |
+| **데이터·API** | <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Upstash%20Redis-00E9A3?style=for-the-badge&logo=upstash&logoColor=black" alt="Upstash Redis"/> <img src="https://img.shields.io/badge/REST%20API-5A5A5A?style=for-the-badge" alt="REST API"/> |
+| **오프라인·PWA** | <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/> <img src="https://img.shields.io/badge/Service%20Worker-3D3D3D?style=for-the-badge" alt="Service Worker"/> <img src="https://img.shields.io/badge/IndexedDB-3D3D3D?style=for-the-badge" alt="IndexedDB"/> <img src="https://img.shields.io/badge/ONNX%20Runtime%20Web-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime Web"/> |
+| **테스트·품질** | <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/> <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing Library"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/> <img src="https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=chromatic&logoColor=white" alt="Chromatic"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/> |
+| **배포·협업** | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> |
+| **AI·모델 (팀 프로젝트)** | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/> |
 
 ---
 
