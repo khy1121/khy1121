@@ -52,7 +52,7 @@
 | 기간 | 프로젝트 | 역할 | 핵심 내용 | 링크 |
 |---|---|---|---|---|
 | 2026.09 ~ 운영 중 | **상담 예약 사이트** · 개인 | 기획·개발·운영 | **교수 3·학생 22명 실사용**, Redis `SET NX`로 동시 예약 차단 | [Live](https://onlyonereservation.vercel.app) · [Code](https://github.com/khy1121/omfres) |
-| 2026.09 ~ 진행 중 | **Cropy** 농작물 병해 진단 · 팀 5인 | 팀장·모델·FE 오프라인 | ResNet50 **test 93.1%**, 오프라인 진단, **PR 48건** | [Live](https://43.202.14.204.sslip.io/splash) |
+| 2026.09 ~ 진행 중 | **Cropy** 농작물 병해 진단 · 팀 5인 | 팀장·모델·FE 오프라인 | ResNet50 **test 93.1%**, 오프라인 진단, **PR 48건** | [Live](https://43.202.14.204.sslip.io/) |
 | 2026.11 | **Overlap** 일정 조율 · 개인 | 기획·개발·운영 | 약 10명이 회의 **5회** 확정, Realtime 동시 편집 | [Live](https://overlap-liard.vercel.app) · [Code](https://github.com/khy1121/overlap) |
 | 2026.08 | **bookSwap** 교재 거래 · 개인 | 기획·데이터·FE·배포 | **2,031행 카탈로그**, **이틀 만에 배포** | [Live](https://book-swap-virid.vercel.app) · [Code](https://github.com/khy1121/bookSwap) |
 | 2026.08 | **MCM Boarding Pass** · 해커톤 6인 | FE 총괄 | **커밋 75%**, API 30/31 연동, **테스트 368개** | [Live](https://boardingpass-seven.vercel.app) · [Code](https://github.com/Hsu-Likelion-14th-Hackathon/FE) |
@@ -88,7 +88,7 @@
 </details>
 
 <details>
-<summary><b>🌱 Cropy (CropCare AI)</b> — 2026.09 ~ 진행 중 · 산학협력 팀 5인 · 팀장 · <code>Next.js 15</code> <code>FastAPI</code> <code>PyTorch</code> <code>ONNX Runtime Web</code></summary>
+<summary><b>🌱 Cropy</b> — 2026.09 ~ 진행 중 · 산학협력 팀 5인 · 팀장 · <code>Next.js 15</code> <code>FastAPI</code> <code>PyTorch</code> <code>ONNX Runtime Web</code></summary>
 <br/>
 
 사진 한 장으로 농작물 병해를 진단하고 농약을 추천하는 서비스입니다.
