@@ -1,52 +1,51 @@
-<h1 align="center">Hi there, I'm 김헌영 👋</h1>
+<h1 align="center">김헌영 · Frontend Developer</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+Engineer;%EB%82%B4%EA%B0%80+%EB%A8%BC%EC%A0%80+%EC%93%B0%EB%8A%94+%EC%A0%9C%ED%92%88%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;Keep+Building%2C+Keep+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <b>요청이 실패하거나 연결이 끊겨도 사용 흐름이 이어지도록, 화면 상태와 복구 경로부터 설계합니다.</b><br/>
+  한성대학교 컴퓨터공학부 웹공학트랙 · 2027.02 졸업예정
 </p>
 
 <p align="center">
   <a href="https://portfoliokhy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-portfoliokhy.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="portfolio"/></a>
   <a href="mailto:rlagjsdud3@gmail.com"><img src="https://img.shields.io/badge/Email-rlagjsdud3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=khy1121&label=Profile%20Views&color=58A6FF&style=flat-square" alt="visitor count"/>
-</p>
-
-<p align="center">
-  <b>내가 먼저 쓰는 제품을 만들고, 왜 그렇게 만들었는지 설명할 수 있는 코드를 짭니다.</b><br/>
-  한성대학교 컴퓨터공학부 웹공학트랙 · 2027.02 졸업예정
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </p>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-**실제로 쓰이는 서비스를 기획부터 운영까지 직접 만드는 프론트엔드 엔지니어입니다.**
+**실제로 쓰이는 서비스를 기획부터 운영까지 직접 만드는 프론트엔드 개발자입니다.**
 
 교수님이 학생에게 한 명씩 물어 만들던 상담 시간표를 예약 사이트로 바꿔 **교수 3명·학생 22명**이 쓰고 있고,
 팀 회의 일정을 맞추느라 서너 번씩 오가던 연락을 **한 번 입력하면 끝나도록** 줄인 웹앱도 만들어 운영하고 있습니다.
 운영하면서 받은 요청을 바로 기능으로 반영합니다.
 
 - 🧭 **일하는 방식**: 기능이 실패했을 때 사용자가 다음에 무엇을 할 수 있는지부터 정합니다
+- 🔍 **협업 방식**: PR마다 변경 범위, 테스트·빌드 결과, 검증하지 못한 항목을 남깁니다
 - 🤖 **AI 활용**: AI로 초안을 만들고, 테스트와 린트를 통과한 코드만 직접 읽고 반영합니다
 
 ---
 
 ### 📈 Highlights
 
-| 25 | 368 | 99.8% | 48 | 5 |
+| 25명 | 368개 | 2,031행 | 99.8% | 48건 |
 |:---:|:---:|:---:|:---:|:---:|
-| 상담 예약 실사용자<br/><sub>교수 3 · 학생 22</sub> | 해커톤 제출 때<br/>통과한 테스트 | NADOK 배너<br/>용량 감소 | Cropy 팀 저장소<br/>병합 PR | Overlap으로<br/>확정한 팀 회의 |
+| 상담 예약 실사용자<br/><sub>교수 3 · 학생 22</sub> | 해커톤 제출 때<br/>통과한 테스트 | bookSwap<br/>교재 카탈로그 | NADOK 배너<br/>용량 감소 | Cropy 팀 저장소<br/>병합 PR |
 
 ---
 
 ### 🚀 Projects
 
-> 각 프로젝트의 **▶ 자세히 보기**를 누르면 실제로 겪은 문제와 해결 과정을 볼 수 있어요.
+| 프로젝트 | 한 줄 소개 | 역할 · 기여 | 링크 |
+|---|---|---|---|
+| 📅 **상담 예약 사이트** | 교수 상담 일정 예약·관리 | 개인 · 기획/개발/운영 | [Live](https://onlyonereservation.vercel.app) · [Code](https://github.com/khy1121/omfres) |
+| 🗓️ **Overlap** | 시간표를 칠하면 공통 시간을 계산하는 일정 조율 | 개인 · 기획/개발/운영 | [Live](https://overlap-liard.vercel.app) · [Code](https://github.com/khy1121/overlap) |
+| 📖 **bookSwap** | 과목·교수로 찾는 교내 중고 교재 거래 | 개인 · 기획/데이터 수집/개발 | [Live](https://book-swap-virid.vercel.app) · [Code](https://github.com/khy1121/bookSwap) |
+| ✈️ **MCM Boarding Pass** | 매장 체험 모바일 웹 (해커톤) | 팀 6인 · FE 총괄 · 커밋 75% | [Live](https://boardingpass-seven.vercel.app) · [Code](https://github.com/Hsu-Likelion-14th-Hackathon/FE) |
+| 📚 **NADOK** | 독서 기록 감정 분석 서비스 · 🏆 교내 해커톤 대상 | 팀 · FE 담당 · 커밋 96% | [Live](https://bugitone.vercel.app) · [Code](https://github.com/khy1121/bugitone) |
+| 🌱 **Cropy** | 사진 한 장으로 농작물 병해 진단 | 팀 5인 · 팀장/모델 · PR 48건 | [Live](https://43.202.14.204.sslip.io/splash) |
+
+> 각 프로젝트의 **▶ 자세히 보기**를 누르면 실제로 겪은 문제와 해결 과정을 볼 수 있어요. 저장소 README에 설치·실행 방법을 정리해 두었습니다.
 
 #### 📅 [상담 예약 사이트](https://onlyonereservation.vercel.app) · 개인 · 2026.09 – 운영 중
 교수님이 학생에게 한 명씩 물어 표로 정리하던 상담 일정을 예약 사이트로 옮겼습니다. 기획·개발·운영을 혼자 맡았고, **교수 3명·학생 22명**이 실제로 쓰고 있습니다.
@@ -96,6 +95,28 @@
 - 카카오톡 인앱 브라우저나 갤럭시에서 글자 크기를 키우면 화면이 옆으로 밀리던 문제를 고쳤습니다.
 - 새 버전을 배포한 직후 흰 화면이 뜨던 문제(MIME `text/html`)를 막고, 앱을 켜 둔 사이 새 버전이 나오면 "새로고침" 안내를 띄웁니다.
 - 웹 푸시 알림, 설정 화면, 회원 탈퇴, 카카오 연결 해제 웹훅, 개인정보처리방침과 만 14세 미만 가입 제한, 사용자 의견함까지 실제 서비스에 필요한 기능을 갖췄습니다.
+
+</details>
+
+#### 📖 [bookSwap](https://book-swap-virid.vercel.app) · 개인 · 2026.08
+교내 장터 글 40건 중 29건이 교재 거래였지만, 과목이나 교수 기준으로는 찾을 수가 없었습니다. 수업계획서를 수집해 **2,031행의 교재 카탈로그**를 만들고, 수업 정보로 교재를 찾아 1:1 채팅으로 거래하는 서비스를 **이틀 만에** 배포했습니다.
+
+`Next.js 16` `React 19` `TypeScript` `Supabase (Auth·Postgres·RLS·Realtime·Storage)` `Tailwind CSS` `Python` · [repo](https://github.com/khy1121/bookSwap)
+
+<details>
+<summary><b>▶ 자세히 보기</b></summary>
+
+**1. 문제를 데이터로 확인하고 시작**
+- 장터 글을 직접 세어 교재 거래가 대부분(40건 중 29건)이라는 것을 확인한 뒤, 검색 기준을 "책 제목"이 아니라 "과목·교수"로 정했습니다.
+- Python으로 수업계획서를 수집·정제해 2,031행의 카탈로그를 만들었습니다.
+
+**2. 이틀 안에 배포하기 위한 범위 결정**
+- 인증·실시간 통신·파일 저장을 Supabase 하나로 구성하고, 스키마와 RLS 정책을 직접 작성했습니다.
+- 검색·1:1 채팅·웹 푸시에 집중하고, 결제와 평점은 후속 과제로 미뤘습니다.
+
+**3. 실패해도 다시 보낼 수 있는 채팅**
+- 전송 즉시 임시 메시지를 띄우고, 실패하면 임시 메시지를 지우는 대신 **입력 내용과 첨부 상태를 복원**합니다.
+- 실시간 연결이 끊기면 빠진 메시지를 보충 조회하고, 이전 대화를 읽는 중인 사용자의 스크롤 위치는 유지합니다.
 
 </details>
 
@@ -170,6 +191,10 @@
 
 </details>
 
+#### 그 밖의 팀 프로젝트
+- 🚗 **붕붕어스** (4호선톤 해커톤, FE 2인 · 2026.10–11) — 디자인 토큰과 홈 공용 컴포넌트를 Storybook으로 구현하고, Chromatic으로 PR마다 화면 변경을 비교하도록 연결 · [repo](https://github.com/2026-line4thon-team6/2026-line4thon-team6-FE)
+- 📝 **CSTIME** (학습 서비스, 팀 FE · 2025.10–2026.04) — 로컬 저장소와 서버 응답이 섞여 있던 오답노트 조회를 서버 API 기준으로 정리 · [repo](https://github.com/Web-CapstoneDesign-project/FE) · [PR](https://github.com/Web-CapstoneDesign-project/FE/pull/1)
+
 ---
 
 ### 🛠️ Tech Stack
@@ -180,9 +205,11 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Upstash%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -191,16 +218,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Education · Activities
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khy1121&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khy1121&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khy1121&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
+- **한성대학교 컴퓨터공학부 웹공학트랙** · 2027.02 졸업예정 · 전공 평점 3.94/4.5 · 단과대 최우수 장학금
+- **멋쟁이사자처럼 14기 프론트엔드** · 2026.03–07
+- **SQLD** · **정보처리기사 필기 합격**
 
 ---
 
