@@ -69,8 +69,9 @@
 
 | 프로젝트 | 상태 | 기간 · 팀 | 핵심 | 링크 |
 |---|:---:|---|---|---|
-| 🌱 **[Cropy](https://portfoliokhy.vercel.app/projects/cropy)**<br/><sub>농작물 병해 AI 진단</sub> | <img src="https://img.shields.io/badge/%EC%A7%84%ED%96%89_%EC%A4%91-F2B544?style=flat-square" alt="진행 중"/> | 2026.09 – · 산학협력 팀 5인 · 팀장 | ResNet50 test 93.1%, 인터넷 없이 기기에서 진단, 팀 저장소 PR 48건 | [상세](https://portfoliokhy.vercel.app/projects/cropy) · [Live](https://43.202.14.204.sslip.io/) · [Code](https://github.com/khy1121/Cropy) |
-| ✈️ **[MCM Boarding Pass](https://portfoliokhy.vercel.app/projects/boardingpass)**<br/><sub>패션 브랜드 매장 체험 웹</sub> | <img src="https://img.shields.io/badge/%EC%A2%85%EB%A3%8C-6B7280?style=flat-square" alt="종료"/> | 2026.08 · 해커톤 팀 6인 · FE 총괄 | 커밋 75%, 실서버 API 30/31 연동, 테스트 368개 통과 | [상세](https://portfoliokhy.vercel.app/projects/boardingpass) · [Live](https://boardingpass-seven.vercel.app) · [Code](https://github.com/Hsu-Likelion-14th-Hackathon/FE) |
+| 🌱 **[Cropy](https://portfoliokhy.vercel.app/projects/cropy)**<br/><sub>농작물 병해 AI 진단</sub> | <img src="https://img.shields.io/badge/%EC%A7%84%ED%96%89_%EC%A4%91-F2B544?style=flat-square" alt="진행 중"/> | 2026.09 – · 산학협력 팀 5인 · 팀장 | ResNet50 test 93.1%, 인터넷 없이 기기에서 진단, 팀 저장소 병합 PR 73건(팀 전체 132건) | [상세](https://portfoliokhy.vercel.app/projects/cropy) · [Live](https://43.202.14.204.sslip.io/) · [Code](https://github.com/hs-cropy/Cropy) |
+| ✈️ **[MCM Boarding Pass](https://portfoliokhy.vercel.app/projects/boardingpass)**<br/><sub>패션 브랜드 매장 체험 웹</sub> | <img src="https://img.shields.io/badge/%EC%A2%85%EB%A3%8C-6B7280?style=flat-square" alt="종료"/> | 2026.08 · 해커톤 팀 6인 · FE 총괄 | 커밋 79%, 실서버 API 30/31 연동, 테스트 368개 통과 | [상세](https://portfoliokhy.vercel.app/projects/boardingpass) · [Live](https://boardingpass-seven.vercel.app) · [Code](https://github.com/Hsu-Likelion-14th-Hackathon/FE) |
+| ⏳ **[할 일 이자](https://portfoliokhy.vercel.app/projects/timebank)**<br/><sub>미루면 이자가 붙는 할 일 앱</sub> | <img src="https://img.shields.io/badge/%EC%A7%84%ED%96%89_%EC%A4%91-F2B544?style=flat-square" alt="진행 중"/> | 2026.11 – · 개인 | 하루 10% 복리 이자 계산, 기기 우선 저장·동기화, 시작 2일 만에 커밋 278·단위 테스트 196개 | [상세](https://portfoliokhy.vercel.app/projects/timebank) · [Code](https://github.com/khy1121/Timebank) |
 | 📅 **[상담 예약](https://portfoliokhy.vercel.app/projects/omfres)**<br/><sub>교수 상담 예약 시스템</sub> | <img src="https://img.shields.io/badge/%EC%9A%B4%EC%98%81_%EC%A4%91-34C38F?style=flat-square" alt="운영 중"/> | 2026.09 · 개인 | 교수 3·학생 22명 실사용, Redis SET NX로 동시 예약 차단 | [상세](https://portfoliokhy.vercel.app/projects/omfres) · [Live](https://onlyonereservation.vercel.app) · [Code](https://github.com/khy1121/omfres) |
 
 ---
@@ -94,8 +95,8 @@
 | 기간 | 활동 | 내용 |
 |---|---|---|
 | 2026.09 ~ 진행 중 | **Cropy 산학협력 프로젝트** · 팀장 | 팀 5인. 기획·디자인·백엔드·모델 담당, 프론트엔드 오프라인 기능 구현 |
-| 2026.03 ~ 2026.12 | **멋쟁이사자처럼 14기** · 프론트엔드 트랙 | React 과정 수료. 교내 해커톤 **대상**(NADOK), 연합 해커톤 FE 총괄(MCM) |
-| 2026.08 ~ 진행 중 | **창업동아리 · 바더** · 기획 담당 | AI일기 서비스 기획(기획서 v1.6). 기능 명세서·화면 설계서·디자인 스펙 작성, 알파 테스트 지표 설계 |
+| 2026.03 ~ 2026.07 | **멋쟁이사자처럼 14기** · 프론트엔드 트랙 | React 과정 수료. 교내 해커톤 **대상**(NADOK), 연합 해커톤 FE 총괄(MCM) |
+| 2026.08 ~ 진행 중 | **창업동아리 · 바더** · 기획 담당 | AI가 먼저 전화를 걸어 대화하고 1인칭 일기를 써 주는 서비스 기획(기획서 v1.6). 기능 명세서·화면 설계서·디자인 스펙 작성, 알파 테스트 지표 설계 |
 
 ---
 
