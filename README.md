@@ -42,8 +42,8 @@
 <td valign="top">
 <h3>📅 상담 예약 <sub><sup>교수 상담 예약 시스템</sup></sub></h3>
 <p><img src="https://img.shields.io/badge/%EC%9A%B4%EC%98%81_%EC%A4%91-34C38F?style=flat-square" alt="운영 중"/> <sub>2026.09 – · 개인 · 기획·개발·운영</sub></p>
-<p>교수 3명이 학생 22명에게 일일이 물어 만들던 상담 시간표를 예약 사이트로 바꿨습니다. 같은 시간대 동시 예약은 Redis SET NX로 막고, 연구실 변경 같은 운영 요청은 당일 반영했습니다.</p>
-<p><b>25</b> <sub>사용자 · 교수 3 · 학생 22</sub> &nbsp;&nbsp; <b>409</b> <sub>중복 요청 응답</sub></p>
+<p>교수 3명이 학생 22명에게 일일이 물어 만들던 상담 시간표를 예약 사이트로 바꿨습니다. 같은 시간대에 동시에 들어온 예약은 Redis SET NX로 먼저 온 요청만 받고 늦은 요청은 409로 거절합니다. 연구실 변경 같은 운영 요청은 당일 반영했습니다.</p>
+<p><b>25</b> <sub>사용자 · 교수 3 · 학생 22</sub></p>
 <p><code>Next.js 16</code> <code>TypeScript</code> <code>Upstash Redis</code></p>
 <p><a href="https://portfoliokhy.vercel.app/projects/omfres"><b>문제와 해결 과정 · 직접 눌러 보기 →</b></a> &nbsp;·&nbsp; <a href="https://onlyonereservation.vercel.app">Live</a> &nbsp;·&nbsp; <a href="https://github.com/khy1121/omfres">Code</a></p>
 </td>
@@ -58,24 +58,9 @@
 <h3>🚗 붕붕어스 <sub><sup>커플 드라이브 기록 웹앱</sup></sub></h3>
 <p><img src="https://img.shields.io/badge/%EC%A2%85%EB%A3%8C-6B7280?style=flat-square" alt="종료"/> <sub>2026.10 – 11 · 4호선톤 해커톤 · 프론트엔드 2인 · 인증·홈·기록 지도·커플 연결 담당</sub></p>
 <p>연인과 함께한 드라이브를 기록하고, 테마별 장소 추천과 기록 지도로 다시 떠날 곳을 찾는 모바일 웹앱입니다.</p>
-<p><b>9</b> <sub>담당 영역 · 인증·홈·기록 지도·커플 등</sub> &nbsp;&nbsp; <b>3</b> <sub>연결 해제 결과 분기 · 취소·이동·없음</sub></p>
+<p><b>첫 요청 401 해결</b> <sub>앱을 다시 열면 토큰 없이 나가던 요청 · 재현 테스트 추가</sub> &nbsp;&nbsp; <b>Storybook</b> <sub>PR마다 화면 변경 비교</sub></p>
 <p><code>React 19</code> <code>TypeScript</code> <code>Vite</code> <code>Storybook</code> <code>Chromatic</code></p>
 <p><a href="https://portfoliokhy.vercel.app/projects/bbung"><b>문제와 해결 과정 · 직접 눌러 보기 →</b></a> &nbsp;·&nbsp; <a href="https://2026-line4thon-team6-fe.vercel.app/">Live</a> &nbsp;·&nbsp; <a href="https://github.com/2026-line4thon-team6/2026-line4thon-team6-FE">Code</a></p>
-</td>
-</tr>
-</table>
-<table>
-<tr>
-<td width="200" align="center" valign="top">
-<a href="https://portfoliokhy.vercel.app/projects/nadok"><img src="./assets/nadok.gif" width="190" alt="NADOK 동작 화면"/></a>
-</td>
-<td valign="top">
-<h3>📚 NADOK <sub><sup>독서 기록 · 감정 분석</sup></sub></h3>
-<p><img src="https://img.shields.io/badge/%EC%A2%85%EB%A3%8C-6B7280?style=flat-square" alt="종료"/> <sub>2026.05 – 08 · 팀 · 프론트엔드 담당 · 🏆 교내 해커톤 대상</sub></p>
-<p>책을 읽고 쓴 기록을 감정 분석해 캐릭터로 보여 주는 서비스의 프론트엔드를 맡았습니다. 배포 직후 흰 화면과 Mixed Content 문제를 해결하고 첫 방문 전송량을 줄였습니다.</p>
-<p><b>23→2.3MB</b> <sub>첫 방문 전송량 · 8.79MB SVG 배너를 16KB WebP로 교체 등</sub> &nbsp;&nbsp; <b>대상</b> <sub>멋쟁이사자처럼 교내 해커톤</sub></p>
-<p><code>React 18</code> <code>Vite</code> <code>Tiptap</code> <code>PWA</code></p>
-<p><a href="https://portfoliokhy.vercel.app/projects/nadok"><b>문제와 해결 과정 · 직접 눌러 보기 →</b></a> &nbsp;·&nbsp; <a href="https://bugitone.vercel.app">Live</a> &nbsp;·&nbsp; <a href="https://github.com/khy1121/bugitone">Code</a></p>
 </td>
 </tr>
 </table>
@@ -84,9 +69,10 @@
 
 | 프로젝트 | 상태 | 기간 · 팀 | 핵심 | 링크 |
 |---|:---:|---|---|---|
+| 📚 **[NADOK](https://portfoliokhy.vercel.app/projects/nadok)**<br/><sub>독서 기록 · 감정 분석</sub> | <img src="https://img.shields.io/badge/%EC%A2%85%EB%A3%8C-6B7280?style=flat-square" alt="종료"/> | 2026.05 – 08 · 팀 · 프론트엔드 담당 | 🏆 교내 해커톤 대상, 배포 직후 흰 화면 복구, 첫 방문 전송량 23→2.3MB | [상세](https://portfoliokhy.vercel.app/projects/nadok) · [Live](https://bugitone.vercel.app) · [Code](https://github.com/khy1121/bugitone) |
 | 🌱 **[Cropy](https://portfoliokhy.vercel.app/projects/cropy)**<br/><sub>오프라인 농작물 병해 진단</sub> | <img src="https://img.shields.io/badge/%EC%A2%85%EB%A3%8C-6B7280?style=flat-square" alt="종료"/> | 2026.07 – 11 · 산학협력 팀 5인 · 팀장 | 통신이 끊겨도 브라우저에서 진단·저장(ONNX Runtime Web·Service Worker·IndexedDB), 연결되면 동기화, 헷갈리는 결과는 재촬영 안내 | [상세](https://portfoliokhy.vercel.app/projects/cropy) · [Live](https://43.202.14.204.sslip.io/) · [Code](https://github.com/hs-cropy/Cropy) |
 | ✈️ **[MCM Boarding Pass](https://portfoliokhy.vercel.app/projects/boardingpass)**<br/><sub>패션 브랜드 매장 체험 웹</sub> | <img src="https://img.shields.io/badge/%EC%A2%85%EB%A3%8C-6B7280?style=flat-square" alt="종료"/> | 2026.07 – 08 · 해커톤 팀 6인 · FE 총괄 | 인증 상태 3단계 구분, 실서버 API 30/31 연동 | [상세](https://portfoliokhy.vercel.app/projects/boardingpass) · [Live](https://boardingpass-seven.vercel.app) · [Code](https://github.com/Hsu-Likelion-14th-Hackathon/FE) |
-| ⏳ **[할 일 이자](https://portfoliokhy.vercel.app/projects/timebank)**<br/><sub>미루면 이자가 붙는 할 일 앱</sub> | <img src="https://img.shields.io/badge/%EC%A7%84%ED%96%89_%EC%A4%91-F2B544?style=flat-square" alt="진행 중"/> | 2026.11 – · 개인 | 하루 10% 복리 이자 계산, 기기 우선 저장·동기화, RLS 교차 점검 | [상세](https://portfoliokhy.vercel.app/projects/timebank) · [Code](https://github.com/khy1121/Timebank) |
+| ⏳ **[할 일 이자](https://portfoliokhy.vercel.app/projects/timebank)**<br/><sub>미루면 이자가 붙는 할 일 앱</sub> | <img src="https://img.shields.io/badge/%EC%A7%84%ED%96%89_%EC%A4%91-F2B544?style=flat-square" alt="진행 중"/> | 2026.11 – · 개인 | 하루 10% 복리 이자 계산, 기기 우선 저장·동기화, RLS 교차 점검 | [상세](https://portfoliokhy.vercel.app/projects/timebank) |
 
 ---
 
